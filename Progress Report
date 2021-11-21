@@ -1,0 +1,28 @@
+# Status Report
+
+#### Your name
+
+David Fosbenner
+#### Your section leader's name
+
+Sai Shi
+
+#### Project title
+
+The Great Gambling Line Bot
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+So far for my project I have created the algorrithim that is used to calculate the spreads for NFL games, and have it take user input to give the output of the line. I have also connected to twitters development program, which allows me to use the twitter bot on their platform
+
+#### What have you not done for your project yet?
+
+I have not built the part of the program that connects to twitters, and senses when it is called. 
+
+#### What problems, if any, have you encountered?
+
+Downloading tweepy has been a large issue for me, as whenever I download it it says it is downloaded, but when I call it it does not recoginize the library
